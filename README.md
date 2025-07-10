@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on personal web and mobile projects
-- 🌱 I’m currently learning React, React Native and Next.js
+- 🌱 I’m learning React, React Native and Next.js
 - 💬 Ask me about Node.js, HTML, CSS, JavaScript, python, java
  
  📫 How to reach me:  
